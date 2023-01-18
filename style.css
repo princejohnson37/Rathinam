@@ -1,0 +1,24 @@
+html,
+body {
+  height: 100vh;
+}
+.bg-div {
+  background-color: rgba(23, 40, 51, 1);
+}
+.main-body-title h1 {
+  color: white;
+}
+.main-body-sub {
+  color: white;
+}
+.main-body-querry-btn button {
+  border-radius: 50px;
+  background: #00bfb4;
+  color: white;
+}
+.main-body {
+  height: 100vh;
+}
+.main-body-image {
+  background: url("/home.png");
+}
